@@ -1,2 +1,2 @@
 # Java101Patika.Dev
- Projeler
+ Java dilinde yazdığım basit projeler.
